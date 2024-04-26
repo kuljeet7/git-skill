@@ -60,3 +60,58 @@
         background-color: rgba(255, 255, 255, 0.1);
         /* Semi-transparent white */
 }
+
+/* Landing section styles */
+.landing-section {
+        background-image: url('https://via.placeholder.com/1500x800');
+        /* Placeholder image URL */
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        /* Adjust height as needed */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.content {
+        text-align: center;
+        color: #fff;
+        padding: 20px;
+        /* Adjust padding as needed */
+}
+
+.content h1 {
+        font-size: 3rem;
+        /* Adjust font size as needed */
+        margin-bottom: 10px;
+}
+
+.content h2 {
+        font-size: 2rem;
+        /* Adjust font size as needed */
+        margin-bottom: 10px;
+}
+
+.content p {
+        font-size: 1.2rem;
+        /* Adjust font size as needed */
+        margin-bottom: 20px;
+}
+
+button {
+        padding: 10px 20px;
+        /* Adjust padding as needed */
+        font-size: 1rem;
+        /* Adjust font size as needed */
+        background-color: #333;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+}
+
+button:hover {
+        background-color: #555;
+        /* Adjust hover background color as needed */
+}
