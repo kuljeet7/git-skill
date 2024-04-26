@@ -173,3 +173,45 @@ button {
 button:hover {
         background-color: #555;
 }
+
+/* Testimonial section styles */
+.testimonial-section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 20px;
+}
+
+.testimonial {
+        margin: 20px;
+        max-width: 300px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial img {
+        width: 100%;
+        height: auto;
+}
+
+.testimonial-info {
+        padding: 20px;
+}
+
+.testimonial-info p {
+        font-size: 1rem;
+        margin-bottom: 10px;
+}
+
+.testimonial-info h4 {
+        font-size: 1.25rem;
+        margin-bottom: 5px;
+}
+
+.testimonial-info span {
+        font-size: 0.875rem;
+        color: #888;
+}
