@@ -3,6 +3,7 @@
         margin: 0;
         box-sizing: border-box;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
 }
 
 ::after,
@@ -63,8 +64,8 @@
 
 /* Landing section styles */
 .landing-section {
-        background-image: url('https://via.placeholder.com/1500x800');
         /* Placeholder image URL */
+        background-color: black;
         background-size: cover;
         background-position: center;
         height: 100vh;
@@ -124,6 +125,7 @@ button:hover {
         align-items: center;
         flex-wrap: wrap;
         padding: 20px;
+        background-color: #333;
 }
 
 .product {
@@ -179,6 +181,7 @@ button:hover {
         display: flex;
         justify-content: center;
         align-items: center;
+        background-color: #333;
         flex-wrap: wrap;
         padding: 20px;
 }
@@ -213,6 +216,7 @@ button:hover {
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
+        background-color: #333;
         padding: 20px;
 }
 
