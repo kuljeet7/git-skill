@@ -34,7 +34,12 @@
 }
 
 .logo h1 {
+<<<<<<< HEAD
         font-size: 25px;
+=======
+        font-size: 26px;
+        color:mediumpurple;
+>>>>>>> 2c611f692cfb0a6170872911b3351a75195459ae
 }
 
 .nav-links ul {
