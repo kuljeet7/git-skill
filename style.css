@@ -60,7 +60,11 @@
 
 /* Hover effect */
 .nav-links a:hover {
+<<<<<<< HEAD
         background-color: mediumpurple;
+=======
+        background-color:mediumpurple;
+>>>>>>> 2ae7a8c4d809baa3cb86311f0a4102acbb4a773c
         /* Semi-transparent white */
 }
 
